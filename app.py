@@ -2,8 +2,8 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 
-st.title("Uber pickups in NYC")
-st.subheader("Build using Tanzu Application Platform v1.3")
+st.title("Uber pickups in NYC - 20:44")
+st.subheader("Build using TAP v1.3")
 
 DATE_COLUMN = "date/time"
 DATA_URL = (
